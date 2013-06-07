@@ -1,0 +1,20 @@
+﻿.c_is{font-family:Arial!important;}
+.c_hbrnd{font-family:"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif"!important;}
+.IE_M7 .c_hbrnd,.IE_M8 .c_hbrnd,.Win6 .c_hbrnd{font-family:"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif"!important;}
+.c_hlc{font-family:Verdana!important;}
+.IE_M6 .c_c li.c_sm .c_ml .c_mlu{font-family:Arial!important;}
+:root input[type=button],:root input[type=submit],:root button{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI Web Semibold","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","HelveticaNeue-Medium","Helvetica Neue",Arial!important;}
+:root .SF_Android input[type=button],:root .SF_Android input[type=submit],:root .SF_Android button{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif"!important;}
+:root input[type=text],:root input[type=password],:root input[type=email],:root input[type=number],:root input[type=tel],:root textarea{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif"!important;}
+.languagePickerFlyout select#lpDropDown{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif",Khmer UI!important;}
+body{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif"!important;}
+body.IE_M7,body.IE_M8,body.IE_WinMo{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif"!important;}
+input,select,textarea,button{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif"!important;}
+h1,h2,h3{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI Light","Segoe UI Web Light","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","HelveticaNeue-Light","Helvetica Neue",Arial!important;}
+.SF_Android h1,.SF_Android h2,.SF_Android h3{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif"!important;}
+.TextBold,.TextSemiBold{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI Web Semibold","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","HelveticaNeue-Medium","Helvetica Neue",Arial!important; font-weight:normal!important;}
+.TextBoldI,.TextSemiBoldI{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI Web Semibold","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","HelveticaNeue-Medium","Helvetica Neue",Arial!important; font-weight:normal!important;}
+.TextLight{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI Light","Segoe UI Web Light","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","HelveticaNeue-Light","Helvetica Neue",Arial!important;}
+.TextLightI{font-family:"Microsoft Yahei",Verdana,Simsun,"Segoe UI Light","Segoe UI Web Light","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","HelveticaNeue-Light","Helvetica Neue",Arial!important;}
+.c_chev{font-family:Arial!important;}
+.c_sms .c_smst{font-family:"Segoe UI Light"!important;}

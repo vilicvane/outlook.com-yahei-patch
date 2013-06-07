@@ -1,0 +1,12 @@
+﻿{
+	"manifest_version": 2,
+    "name": "Microsoft Yahei for Outlook.com (English)",
+    "version": "3.0",
+    "description": "...",
+    "permissions": ["tabs", "*://*.mail.live.com/*"],
+    "content_scripts": [{
+        "matches": ["*://*.mail.live.com/*"],
+        "css": ["main.css"],
+		"js": ["main.js"]
+    }]
+}
